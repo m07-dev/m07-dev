@@ -13,7 +13,7 @@
       />
     </div>
     <div >
-      <h2 align ="center"> Hi, Im Mohamed, 18yo French 🇫🇷, Futur Web Developper and Student at UPEC.</h2>
+      <h2 align ="center"> Hi, Im Mohamed, 18yo French 🇫🇷, Futur FullStack Developper and Student at UPEC.</h2>
     </div><br><br>
     <div>
       <ul>
