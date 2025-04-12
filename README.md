@@ -35,6 +35,7 @@
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/lapince.) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mohamed-fofana-794643282/) 
 
+## 👀 Visitor
 ![Visitor Count](https://profile-counter.glitch.me/m07-dev/count.svg)
 
 ## 💻 Tech Stack:
