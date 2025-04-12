@@ -21,22 +21,21 @@
 # Hi, I'm Mohamed 👋 
 
 </div> 
-
-### An 18yo French 🇫🇷 aspiring to become a Full-Stack Developer & Student at UPEC.
-
----
+<div align="center">
+  
+  ### An 18yo French 🇫🇷 aspiring to become a Full-Stack Developer & Student at UPEC.
+</div>
 
 ## 💫 About Me:
 - Autodidact 🧑‍🏫  
 - Enjoys learning new things 💡  
 
----
+
 
 ## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/lapince)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-fofana-794643282/)  
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/lapince.) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mohamed-fofana-794643282/) 
 
----
+
 
 ## 💻 Tech Stack:
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
@@ -55,14 +54,14 @@
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
 
----
+
 
 ## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=m07-dev&theme=dark&hide_border=false&include_all_commits=true&count_private=false)  
 ![](https://nirzak-streak-stats.vercel.app/?user=m07-dev&theme=dark&hide_border=false)  
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=m07-dev&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
----
+
 
 ## 🏆 GitHub Trophies:
 ![](https://github-profile-trophy.vercel.app/?username=m07-dev&theme=radical&no-frame=false&no-bg=true&margin-w=4)
