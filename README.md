@@ -23,7 +23,7 @@
 </div> 
 <div align="center">
   
-  ### An 18yo French 🇫🇷 aspiring to become a Full-Stack Developer & Student at UPEC.
+  ### An 18yo French 🇫🇷 aspiring to become a Full-Stack Developer & Student at IUT DE MONTREUIL.
 </div>
 
 ## 💫 About Me:
